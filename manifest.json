@@ -1,6 +1,6 @@
 {
   "background_color": "#ffffff",
-  "description": "PDF PRO+",
+  "description": "Edit PDFs easily offline. Add images, drawings and text",
   "dir": "ltr",
   "display": "standalone",
   "name": "PDF PRO+",
@@ -50,7 +50,7 @@
     {
       "name": "PDF PRO+",
       "url": "",
-      "description": ""
+      "description": "Edit PDFs easily offline. Add images, drawings and text"
     }
   ]
 }
